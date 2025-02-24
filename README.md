@@ -30,6 +30,7 @@ I'm an **Electronics and Communication Engineering** undergraduate at **IIIT Ran
 ---
 
 ## 🚀 Featured Projects
+
 🔹 **TV-Series_Analysis** – A Favourite TV series Character Chatbot 
 🔹 **Sanskrit-GPT** – A GPT model trained for Sanskrit text generation  
 🔹 **Fake-News-Classifier** – LSTM-based model for detecting fake news  
