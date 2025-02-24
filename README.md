@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Om Biradar!
 
-### 🚀 Innovator | AI Enthusiast | Hackathon Winner
+### 🚀 Machine Learning Engineer | AI Enthusiast | Hackathon Winner
 
 I'm an **Electronics and Communication Engineering** undergraduate at **IIIT Ranchi**, specializing in **Embedded Systems and IoT**. I thrive on building **AI-driven solutions** that bridge the gap between technology and real-world impact.
 
