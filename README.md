@@ -25,7 +25,7 @@ I'm an **Electronics and Communication Engineering** undergraduate at **IIIT Ran
 - TensorFlow | PyTorch | OpenCV | Scikit-Learn | Hugging Face
 
 ### Other Technologies
-- Flutter | Firebase | Node.js | REST APIs
+- Docker | Firebase | Node.js | REST APIs
 
 ---
 
